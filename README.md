@@ -1,2 +1,2 @@
 # factorgp
-Code release of FactorGP
+Code release of FactorGP coming soon.
