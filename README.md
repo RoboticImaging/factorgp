@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is research code for the approximate GP model **FactorGP**, submitted to the RSS Perception for Action workshop. Our model learns a GP approximating GMRF prior that can encode spatially varying lengthscales and conditional independences, capturing non-stationarity and discontinuities in data respectively.
+This is research code for the approximate GP model **FactorGP**, submitted to the RSS From Perception to Action workshop. Our model learns a GP approximating GMRF prior that can encode spatially varying lengthscales and conditional independences, capturing non-stationarity and discontinuities in data respectively.
 
 The model code is contained within `fgp/`:
 - `fgp/graph_learning.py`: SVGD-based graph learning module
