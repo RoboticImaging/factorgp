@@ -1,0 +1,4 @@
+venv/
+figs/
+*.pyc
+results/
